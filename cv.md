@@ -5,13 +5,13 @@
 cv@prokhorov.dev
 
 ### Website:
-prokhorov.work
+[prokhorov.work](https://prokhorov.work "prokhorov")
 
 ### Phone:
 +7 982 977 23 50
 
 ## Intro:
-I started my IT career in 2017, as a system administrator. At the same time, I was trying my hand at web development. I used to make websites as a hobby, you can find examples of my work on my website: prokhorov.work.
+I started my IT career in 2017, as a system administrator. At the same time, I was trying my hand at web development. I used to make websites as a hobby, you can find examples of my work on my website: [prokhorov.work](https://prokhorov.work).
 
 Now I've decided to switch completely to web development, my goal is to become a full-fledged working unit in the role of a frontend programmer. In 2020 I've become a student again - I chose Software Engineering as my major, also to achieve my goals I signed up for rs-school courses. 
 
