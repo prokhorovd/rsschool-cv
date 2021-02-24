@@ -1,0 +1,58 @@
+body { background-color: gainsboro; }
+
+.content {
+  background-color: whitesmoke;
+  font-family: 'Lato', sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1% 4%;
+  border-radius: 10px;
+}
+
+header {
+  text-align: right;
+  padding-right: 2rem;
+  font-size: 0.8rem;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.prof { margin-top: -1rem; }
+
+figcaption, 
+figure {
+  text-align: center;
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.photo { border-radius: 20%; }
+
+.whoami { text-align: center; }
+
+.skilllist {
+  margin-top: -0.8rem;
+  font-size: 0.9rem;
+}
+
+.descr { padding-left: 5%; }
+
+.contacts {
+  list-style: none;
+  text-align: left;
+  font-style: italic;
+}
+
+.codesample {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.8rem;
+  padding-left: 10%;
+}
+
+.education, 
+.careerlist {
+  list-style: none;
+}
